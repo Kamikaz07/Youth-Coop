@@ -69,7 +69,7 @@ const Hero = () => {
             animate={{ opacity: 1, scale: 1 }}
             transition={{ duration: 0.6, delay: 0.4 }}
           >
-            Comunidade 💪
+            Comunidade
           </motion.span>
         </motion.h1>
         
